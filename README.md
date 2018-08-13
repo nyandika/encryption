@@ -2,10 +2,10 @@
 
 A simple Encryption and Decryption library using the AES Algorithm
 
-:arrow_forward: [Download from Nuget](https://www.nuget.org/packages/Dencryptor/)
+:arrow_forward: [Download from Nuget](https://www.nuget.org/packages/DencryptorCore/)
 
 :arrow_forward: Install from Package manager Console
-> Install-Package Dencryptor
+> Install-Package DencryptorCore
 
 ## :sparkle: Main Features
 The Encryption has the following custom features:
