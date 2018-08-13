@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DencryptorCore</id>
+    <version>1.0.0</version>
+    <authors>Nyandika Donald</authors>
+    <owners>Nyandika Donald</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Dencryptor nuget package for the .net core &gt;2.0 versions</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\bin\Debug\netcoreapp2.1\EncryptionCore.dll" target="lib\netcoreapp2.1\EncryptionCore.dll" />
+  </files>
+</package>

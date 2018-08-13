@@ -8,3 +8,13 @@ E:\Personal\Open Source\Encryption\AESEncryption\Example\obj\Debug\Example.cspro
 E:\Personal\Open Source\Encryption\AESEncryption\Example\obj\Debug\Example.csproj.CopyComplete
 E:\Personal\Open Source\Encryption\AESEncryption\Example\obj\Debug\Example.exe
 E:\Personal\Open Source\Encryption\AESEncryption\Example\obj\Debug\Example.pdb
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\obj\Debug\Example.csprojAssemblyReference.cache
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\obj\Debug\Example.csproj.CoreCompileInputs.cache
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\bin\Debug\Example.exe.config
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\bin\Debug\Example.exe
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\bin\Debug\Example.pdb
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\bin\Debug\Encryption.dll
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\bin\Debug\Encryption.pdb
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\obj\Debug\Example.csproj.CopyComplete
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\obj\Debug\Example.exe
+E:\Personal\OpenSource\Encryption\AESEncryption\Example\obj\Debug\Example.pdb

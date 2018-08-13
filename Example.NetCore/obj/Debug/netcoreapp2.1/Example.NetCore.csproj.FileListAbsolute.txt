@@ -1,0 +1,14 @@
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\bin\Debug\netcoreapp2.1\Example.NetCore.deps.json
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\bin\Debug\netcoreapp2.1\Example.NetCore.runtimeconfig.json
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\bin\Debug\netcoreapp2.1\Example.NetCore.runtimeconfig.dev.json
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\bin\Debug\netcoreapp2.1\Example.NetCore.dll
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\bin\Debug\netcoreapp2.1\Example.NetCore.pdb
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\bin\Debug\netcoreapp2.1\EncryptionCore.dll
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\bin\Debug\netcoreapp2.1\EncryptionCore.pdb
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\obj\Debug\netcoreapp2.1\Example.NetCore.csprojAssemblyReference.cache
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\obj\Debug\netcoreapp2.1\Example.NetCore.csproj.CoreCompileInputs.cache
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\obj\Debug\netcoreapp2.1\Example.NetCore.AssemblyInfoInputs.cache
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\obj\Debug\netcoreapp2.1\Example.NetCore.AssemblyInfo.cs
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\obj\Debug\netcoreapp2.1\Example.NetCore.csproj.CopyComplete
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\obj\Debug\netcoreapp2.1\Example.NetCore.dll
+E:\Personal\OpenSource\Encryption\AESEncryption\Example.NetCore\obj\Debug\netcoreapp2.1\Example.NetCore.pdb

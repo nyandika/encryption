@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{12F64090-CF5D-4669-A631-D10FB735B5DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptionCore", "EncryptionCore\EncryptionCore.csproj", "{5E5C77C1-A66D-4698-A16F-885E22E1E359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.NetCore", "Example.NetCore\Example.NetCore.csproj", "{897191D9-6905-430C-867F-1D1BEC69B15B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{12F64090-CF5D-4669-A631-D10FB735B5DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12F64090-CF5D-4669-A631-D10FB735B5DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12F64090-CF5D-4669-A631-D10FB735B5DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5C77C1-A66D-4698-A16F-885E22E1E359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5C77C1-A66D-4698-A16F-885E22E1E359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5C77C1-A66D-4698-A16F-885E22E1E359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5C77C1-A66D-4698-A16F-885E22E1E359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897191D9-6905-430C-867F-1D1BEC69B15B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897191D9-6905-430C-867F-1D1BEC69B15B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897191D9-6905-430C-867F-1D1BEC69B15B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897191D9-6905-430C-867F-1D1BEC69B15B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
