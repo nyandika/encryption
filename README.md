@@ -41,13 +41,13 @@ If ypu are looking to improve this library and think that other people would lik
 
 * You could always contact me through Email for any feature or issue. :star:
 
-* You need [Visual Studio 2015 Community/Enterprise Edition and beyond](<https://www.visualstudio.com/>) to build the solution.
+* You need [Visual Studio Community/Enterprise Editions and beyond](<https://www.visualstudio.com/>) to build the solution.
 
 
 ## :sparkle: Licence
 The MIT License (MIT)
 
-Copyright (c) 2016, Bespoke Fusion
+Copyright (c) 2022, BitsTech
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal
