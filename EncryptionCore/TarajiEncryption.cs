@@ -7,11 +7,11 @@ namespace EncryptionCore
 {
     public class TarajiEncryption
     {
-        //Ideally to pass a parameter in this method to specify the algorithm.
-        //Using only one algorithm right now, i.e AES
+        // Ideally to pass a parameter in this method to specify the algorithm.
+        // Using only one algorithm right now, i.e AES
         public ICrypto MakeCryptographer()
         {
-            //Redirect to the specified algorithm, the only one currently
+            // Redirect to the specified algorithm, the only one currently
             return new TarajiAlgorithm();
         }
 
@@ -24,8 +24,8 @@ namespace EncryptionCore
         public class TarajiAlgorithm : ICrypto
         {
             // Fields
-            private byte[] _iv = new byte[] { 0x53, 0x47, 0x1a, 0x3a, 0x36, 0x23, 0x16, 11, 0x53, 0x47, 0x1a, 0x3a, 0x36, 0x23, 0x16, 11 };
-            private byte[] _key = new byte[] { 0x84, 0x2a, 0x35, 0x7c, 0x4b, 0x38, 0x57, 0x26, 9, 10, 0xa1, 0x84, 0xb7, 0x5b, 0x69, 0x10,
+            private readonly byte[] _iv = new byte[] { 0x53, 0x47, 0x1a, 0x3a, 0x36, 0x23, 0x16, 11, 0x53, 0x47, 0x1a, 0x3a, 0x36, 0x23, 0x16, 11 };
+            private readonly byte[] _key = new byte[] { 0x84, 0x2a, 0x35, 0x7c, 0x4b, 0x38, 0x57, 0x26, 9, 10, 0xa1, 0x84, 0xb7, 0x5b, 0x69, 0x10,
             0x75, 0xda, 0x95, 230, 0xdd, 0xd4, 0xeb, 0x40
         };
 

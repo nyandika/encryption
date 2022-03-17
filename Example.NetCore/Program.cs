@@ -7,7 +7,7 @@ namespace Example.NetCore
     {
         static void Main(string[] args)
         {
-            //Initialize the encryption class
+            // Initialize the encryption class
             TarajiEncryption encryption = new TarajiEncryption();
             var cryptographer = encryption.MakeCryptographer();
 

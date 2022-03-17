@@ -1,15 +1,15 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
 	<PackageId>DencryptorCore</PackageId>
-	<Version>1.0.0</Version>
+	<Version>2.0.0</Version>
 	<Authors>Nyandika Donald</Authors>
-	<Company>Apptronics Kenya</Company>
+	<Company>BitsTech</Company>
 	<owners>Nyandika Donald</owners>
 	<requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<description>The Dencryptor nuget package for the .net core >2.0 versions</description>
-    <tags>Asp.Net Core 2.*</tags>
+	<description>The Dencryptor nuget package for the .net standard</description>
+    <tags>.NET Core</tags>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
