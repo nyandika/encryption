@@ -1,8 +1,0 @@
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\bin\Debug\netcoreapp2.1\EncryptionCore.deps.json
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\bin\Debug\netcoreapp2.1\EncryptionCore.dll
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\bin\Debug\netcoreapp2.1\EncryptionCore.pdb
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\obj\Debug\netcoreapp2.1\EncryptionCore.csproj.CoreCompileInputs.cache
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\obj\Debug\netcoreapp2.1\EncryptionCore.AssemblyInfoInputs.cache
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\obj\Debug\netcoreapp2.1\EncryptionCore.AssemblyInfo.cs
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\obj\Debug\netcoreapp2.1\EncryptionCore.dll
-E:\Personal\OpenSource\Encryption\AESEncryption\EncryptionCore\obj\Debug\netcoreapp2.1\EncryptionCore.pdb
